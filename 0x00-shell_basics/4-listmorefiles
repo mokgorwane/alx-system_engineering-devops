@@ -1,1 +1,2 @@
-Display current directory hidden files
+#!/bin/bash
+ls -la
